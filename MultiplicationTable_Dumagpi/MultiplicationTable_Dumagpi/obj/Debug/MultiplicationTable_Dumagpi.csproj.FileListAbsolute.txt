@@ -1,0 +1,8 @@
+C:\Users\dumag\Desktop\Code Files\MultiplicationTable_Dumagpi\MultiplicationTable_Dumagpi\bin\Debug\MultiplicationTable_Dumagpi.exe.config
+C:\Users\dumag\Desktop\Code Files\MultiplicationTable_Dumagpi\MultiplicationTable_Dumagpi\bin\Debug\MultiplicationTable_Dumagpi.exe
+C:\Users\dumag\Desktop\Code Files\MultiplicationTable_Dumagpi\MultiplicationTable_Dumagpi\bin\Debug\MultiplicationTable_Dumagpi.pdb
+C:\Users\dumag\Desktop\Code Files\MultiplicationTable_Dumagpi\MultiplicationTable_Dumagpi\obj\Debug\MultiplicationTable_Dumagpi.csproj.AssemblyReference.cache
+C:\Users\dumag\Desktop\Code Files\MultiplicationTable_Dumagpi\MultiplicationTable_Dumagpi\obj\Debug\MultiplicationTable_Dumagpi.csproj.SuggestedBindingRedirects.cache
+C:\Users\dumag\Desktop\Code Files\MultiplicationTable_Dumagpi\MultiplicationTable_Dumagpi\obj\Debug\MultiplicationTable_Dumagpi.csproj.CoreCompileInputs.cache
+C:\Users\dumag\Desktop\Code Files\MultiplicationTable_Dumagpi\MultiplicationTable_Dumagpi\obj\Debug\MultiplicationTable_Dumagpi.exe
+C:\Users\dumag\Desktop\Code Files\MultiplicationTable_Dumagpi\MultiplicationTable_Dumagpi\obj\Debug\MultiplicationTable_Dumagpi.pdb
